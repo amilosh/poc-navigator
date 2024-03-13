@@ -1,0 +1,64 @@
+ - poc-1 -
+stack:
+Java 17
+Spring Boot 2.7.8 
+Gradle
+
+features:
+simple CRUD
+gradle checkstyle 9.3
+lombok 1.18.22
+mapStructVersion 1.4.2.Final
+read file from csv
+flyway
+postreSQL
+
+ - poc-2 -
+Java 21
+Spring Boot 3.2.2
+
+features:
+lombok 1.18.30
+RabbitMQ (producer -> consumer)
+MongoDB
+
+ - poc-3 -
+Microservices
+Java 17
+Spring Boot 3.2.2
+Maven
+
+features:
+MySQL
+MongoDB
+MongoDB testcontainers
+Spring Cloud Eureka server
+Spring Cloud Eureka client
+Spring Cloud Api Gateway
+Spring WebFlux WebClient
+Kafka
+
+ - poc-3-1 -
+Microservices
+Java 17
+Spring Boot 3.2.2
+Maven
+
+features:
+MySQL
+MongoDB
+MongoDB testcontainers
+Spring Cloud Eureka server
+Spring Cloud Eureka client
+Spring Cloud Api Gateway
+Spring WebFlux WebClient
+Kafka
+Prometheus
+Grafana
+
+ - poc-4 -
+Java 17
+Spring Boot 3.2.2
+Maven
+Swagger (io.springfox)
+Kafka
