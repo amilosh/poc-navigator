@@ -62,3 +62,23 @@ Spring Boot 3.2.2
 Maven
 Swagger (io.springfox)
 Kafka
+
+ - poc-5 -
+Java 21
+Spring Boot 3.2.3
+Swagger 2.4.0
+SLF4J Logback logging 0.1.5
+Sun Checkstyle 10.14.2
+RestExceptionHandler, @ControllerAdvice
+Unit tests, @InjectMocks, @BeforeEach, @Test
+Jacoco 0.8.11, jacocoTestCoverage, exclude/include
+Enum, any(), none(), DB enum converter
+REST, pagination, sorting
+CriteriaBuilder, hibernateJpamodelgenVersion
+Specification, SpecificationUtils, or(), and()
+Spring Events, Async Spring Events
+Scheduling, @EnableScheduling, @Scheduled
+AWS S3: upload and download txt file
+Google Gmail smtp
+Amazon Simple Email Service
+Email as html via FreeMarker
